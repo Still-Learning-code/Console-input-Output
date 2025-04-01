@@ -1,0 +1,12 @@
+//chp 11 Console input output
+fun main(args: Array<String>) {
+
+ println("Enter your name: ")
+  val name = readLine()
+  println("Hello $name!: ")
+
+  println("Enter your name: ")
+  val name1 = readLine()
+  println("Hello $name1!")
+
+ }
